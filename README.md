@@ -1,2 +1,6 @@
-# Actividad 3 y 4 para la clase de arquitectura de software :office:
-## Alexandra Gomez
+# Aplicación Cliente Servidor
+
+_El siguiente proyecto tiene como fin mostrar el funcionamiento de una aplicación cliente :iphone: servidor :computer:_
+
+
+### Con Alexandra Gomez
