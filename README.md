@@ -2,5 +2,5 @@
 
 _El siguiente proyecto tiene como fin mostrar el funcionamiento de una aplicación cliente :iphone: servidor :computer:_
 
-
-### Con Alexandra Gomez
+---
+[Alexandra Gomez](https://github.com/yagoalexa)
